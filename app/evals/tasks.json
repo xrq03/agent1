@@ -1,0 +1,14 @@
+[
+  {
+    "id": "monthly_sales_trend",
+    "input": "请分析销售数据，按月份统计销售额并绘制趋势图，输出关键指标。",
+    "file_path": "data/sales.csv",
+    "force_first_error": true
+  },
+  {
+    "id": "product_sales_summary",
+    "input": "请按产品汇总销售额，并输出每个产品的总销售额。",
+    "file_path": "data/sales.csv",
+    "force_first_error": false
+  }
+]
